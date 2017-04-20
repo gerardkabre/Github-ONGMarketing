@@ -741,8 +741,7 @@ h6
 .display-3
 {
     font-size: 5rem;
-    font-weight: 300;
-    font-family: Lato;
+    font-weight: 500;
 }
 
 .display-4
@@ -3624,7 +3623,6 @@ input[type="submit"].btn-block,input[type="reset"].btn-block,input[type="button"
     padding-bottom: .25rem;
     margin-right: 1rem;
     font-size: 1.25rem;
-    font-family: Lato;
 }
 
 .navbar-brand:focus,.navbar-brand:hover
