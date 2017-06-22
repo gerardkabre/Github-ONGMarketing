@@ -210,7 +210,7 @@ abbr[title]
 
 b,strong
 {
-    font-weight: bold;
+    font-weight: 500;
 }
 
 dfn
@@ -3789,7 +3789,9 @@ input[type="submit"].btn-block,input[type="reset"].btn-block,input[type="button"
 
 .card-block
 {
-    padding: 1.25rem;
+    padding: 1.25rem .25rem 1.25rem 1.25rem;
+    display: block;
+    background-color: #ffffff;
 }
 
 .card-title
@@ -7584,7 +7586,7 @@ h3
 
 .section-features .card-block
 {
-    padding: 0;
+    padding: 10px 10px 0;
 }
 
 @media (min-width: 768px)
@@ -8692,7 +8694,7 @@ butonheader
 .imgcenter
 {
     display: inline-block;
-    margin-top: 2rem;
+    margin-top: -1%;
 }
 
 .container2
