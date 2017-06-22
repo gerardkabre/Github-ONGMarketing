@@ -7878,8 +7878,8 @@ figure
 
 .section-testimonials
 {
+    background: #663fb5 url(../img/bg-testimonials.jpg) no-repeat center bottom;
     background-size: cover;
-    background-color: #00c6ff; ;
 }
 
 .section-testimonials .blockquote
@@ -8219,7 +8219,6 @@ figure
 {
     padding-top: 4.4rem;
     padding-bottom: 3rem;
-    background-color:  #00c6ff;
 }
 
 @media (min-width: 768px)

@@ -2456,7 +2456,7 @@ a.btn.disabled,fieldset[disabled] a.btn
 .btn-primary
 {
     color: #fff;
-    background-color:  #00c6ff;
+    background-color: #6c59b4;
     border-color: #6c59b4;
 }
 
@@ -3402,7 +3402,6 @@ input[type="submit"].btn-block,input[type="reset"].btn-block,input[type="button"
 .nav-link
 {
     display: inline-block;
-    color: #5a1c1c;
 }
 
 .nav-link:focus,.nav-link:hover
@@ -3703,7 +3702,6 @@ input[type="submit"].btn-block,input[type="reset"].btn-block,input[type="button"
     display: block;
     padding-top: .425rem;
     padding-bottom: .425rem;
-    color: #b12121;
 }
 
 .navbar-nav .nav-link+.nav-link
@@ -7279,7 +7277,8 @@ html,body
     height: 100%;
 }
 
-.jumbotron {
+.jumbotron
+{
     padding-top: 7rem;
     margin-bottom: 0;
    background: #00c6ff;  /* fallback for old browsers */
@@ -7878,8 +7877,8 @@ figure
 
 .section-testimonials
 {
+    background: #663fb5 url(../img/bg-testimonials.jpg) no-repeat center bottom;
     background-size: cover;
-    background-color: #00c6ff; ;
 }
 
 .section-testimonials .blockquote
@@ -8219,7 +8218,6 @@ figure
 {
     padding-top: 4.4rem;
     padding-bottom: 3rem;
-    background-color:  #00c6ff;
 }
 
 @media (min-width: 768px)
@@ -8715,7 +8713,7 @@ butonheader
 
 .linkcolor
 {
-    color:  #00c6ff;
+    color: rgba(73, 21, 153, 0.56);
 }
 
 .blod
@@ -8765,10 +8763,5 @@ butonheader
 .prueba2
 {
     margin-bottom: 7%;
-}
-
-color
-{
-    color: #c73535;
 }
 
